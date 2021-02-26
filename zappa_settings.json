@@ -4,6 +4,7 @@
         "profile_name": "zappa",
         "project_name": "sentimentlambda",
         "runtime": "python3.8",
-        "s3_bucket": "zappa-tffxoeb90"
+        "s3_bucket": "zappa-tffxoeb90",
+        "slim_handler": true
     }
 }
